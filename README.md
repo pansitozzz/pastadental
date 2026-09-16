@@ -1,22 +1,31 @@
 # PastaDental
 
-Shooter en primera persona sobre higiene bucal hecho en Unity para el curso de Desarrollo de Juegos.
+Shooter educativo en primera persona desarrollado en Unity y C# como proyecto universitario sobre higiene bucal.
 
-## Problema/contexto
+## Contexto
 
-Trabajo aplicativo del curso Desarrollo de Juegos, de la carrera de Ingeniería de Sistemas en la UNTELS (Perú). Fue desarrollado en equipo de 5 integrantes como proyecto académico.
+Trabajo aplicativo del curso **Desarrollo de Juegos** de la carrera de Ingeniería de Sistemas en la Universidad Nacional Tecnológica de Lima Sur (UNTELS). El proyecto fue desarrollado en equipo y permitió aplicar programación en C#, diseño de mecánicas y construcción de una experiencia interactiva fuera del enfoque backend habitual.
 
-## Stack
+## Objetivo
+
+Transformar contenidos de higiene bucal en una experiencia de juego sencilla, combinando aprendizaje y mecánicas de shooter en primera persona.
+
+## Tecnologías
 
 - Unity 6000.4.3f1
 - C#
 
-## Cómo correrlo localmente
+## Ejecución local
 
-1. Abrir el proyecto con Unity Hub (versión 6000.4.3f1 o compatible).
-2. Abrir la escena principal: `Assets/Scenes/Nivel_1.unity`.
-3. Dar Play.
+1. Abrir el proyecto con Unity Hub usando la versión `6000.4.3f1` o una compatible.
+2. Abrir la escena principal:
 
-## Créditos
+```text
+Assets/Scenes/Nivel_1.unity
+```
 
-Proyecto académico desarrollado en equipo de 5 integrantes para el curso Desarrollo de Juegos, UNTELS.
+3. Ejecutar la escena con **Play**.
+
+## Autoría
+
+Proyecto académico desarrollado en equipo para el curso **Desarrollo de Juegos — UNTELS**.
