@@ -4,7 +4,7 @@ Shooter en primera persona sobre higiene bucal hecho en Unity para el curso de D
 
 ## Problema/contexto
 
-Trabajo aplicativo del curso Desarrollo de Juegos, de la carrera de Ingeniería de Sistemas en la UNTELS (Perú). Hecho en equipo de 5 personas, con apoyo de Claude Code durante el desarrollo.
+Trabajo aplicativo del curso Desarrollo de Juegos, de la carrera de Ingeniería de Sistemas en la UNTELS (Perú). Fue desarrollado en equipo de 5 integrantes como proyecto académico.
 
 ## Stack
 
@@ -17,10 +17,6 @@ Trabajo aplicativo del curso Desarrollo de Juegos, de la carrera de Ingeniería 
 2. Abrir la escena principal: `Assets/Scenes/Nivel_1.unity`.
 3. Dar Play.
 
-## Captura
-
-(Pendiente: Frank agregará una captura o gif del gameplay aquí)
-
 ## Créditos
 
-Proyecto realizado en equipo de 5 integrantes (curso Desarrollo de Juegos, UNTELS). Nombres pendientes de confirmar con Frank.
+Proyecto académico desarrollado en equipo de 5 integrantes para el curso Desarrollo de Juegos, UNTELS.
